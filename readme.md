@@ -110,3 +110,4 @@ In this challenge we built integration tests of to add more test coverage on Fin
 In this module we build an backend application with Node.js, using PrismaIO as ORM, Typescript, JWT and Express.js
 
 [Repository](https://github.com/Vyctor/central-de-entregas)
+[Repository](https://github.com/Vyctor/prisma-rocketseat)
