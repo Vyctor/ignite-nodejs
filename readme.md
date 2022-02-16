@@ -104,3 +104,9 @@ In this challenge we built unit tests of an API using all that you learn from no
 In this challenge we built integration tests of to add more test coverage on FinAPI.
 
 [Repository](https://github.com/Vyctor/desafio-testes-unitarios)
+
+### PRISMA ORM
+
+In this module we build an backend application with Node.js, using PrismaIO as ORM, Typescript, JWT and Express.js
+
+[Repository](https://github.com/Vyctor/central-de-entregas)
